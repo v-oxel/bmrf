@@ -1,0 +1,45 @@
+body {
+    color: #E2E2E2;
+    background-color: #242828;
+}
+
+header, footer {
+    color: #FFFFFF;
+    background-color: #503D26;
+}
+
+.news-post-name, .products-post-name, .service-post-name {
+    color: #FFFFFF;
+    background-color: #CB7820;
+}
+
+.footer-text {
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+
+/* unvisited link */
+a:link {
+    color: #E2E2E2;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #E2E2E2;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #E2E2E2;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #E2E2E2;
+    text-decoration: underline;
+}
